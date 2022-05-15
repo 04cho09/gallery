@@ -18,8 +18,10 @@ h2 {
 
 .column {
   float: left;
-  width: 25%;
-  padding: 5px;
+  align-items: center;
+  width: 40%;
+  padding: 50px;
+  border: 50px;
 }
 
 img {
